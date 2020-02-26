@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47759c7b-f160-474d-ad97-93f8a42b9b99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XxK93RGr0lIOX39mh5PXhzlq5x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aula19" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aula19" />
+      <recent name="$PROJECT_DIR$/aula17" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.aula19.c">
+    <configuration name="aula17-desafio88" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula17/aula17-desafio88.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula17-desafio89" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula17/aula17-desafio89.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula19/aula19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula19.c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula19/aula19.c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula19b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula19/aula19b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aula19.c" />
+        <item itemvalue="Python.aula19b" />
+        <item itemvalue="Python.aula19" />
+        <item itemvalue="Python.aula17-desafio89" />
+        <item itemvalue="Python.aula17-desafio88" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47759c7b-f160-474d-ad97-93f8a42b9b99" name="Default Changelist" comment="" />
+      <created>1581982151018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581982151018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="785" height="250" key="GridCell.Tab.0.bottom" timestamp="1582748225108">
+      <screen x="0" y="28" width="1440" height="748" />
+    </state>
+    <state width="785" height="250" key="GridCell.Tab.0.bottom/0.28.1440.748@0.28.1440.748" timestamp="1582748225108" />
+    <state width="774" height="144" key="GridCell.Tab.0.bottom/51.28.1389.748@51.28.1389.748" timestamp="1582142018235" />
+    <state width="1513" height="203" key="GridCell.Tab.0.bottom/63.28.1537.838@63.28.1537.838" timestamp="1582134958926" />
+    <state width="1376" height="250" key="GridCell.Tab.0.bottom/63.28.1857.1018@63.28.1857.1018" timestamp="1581982828656" />
+    <state width="785" height="250" key="GridCell.Tab.0.center" timestamp="1582748225107">
+      <screen x="0" y="28" width="1440" height="748" />
+    </state>
+    <state width="785" height="250" key="GridCell.Tab.0.center/0.28.1440.748@0.28.1440.748" timestamp="1582748225107" />
+    <state width="774" height="144" key="GridCell.Tab.0.center/51.28.1389.748@51.28.1389.748" timestamp="1582142018234" />
+    <state width="1513" height="203" key="GridCell.Tab.0.center/63.28.1537.838@63.28.1537.838" timestamp="1582134958925" />
+    <state width="1376" height="250" key="GridCell.Tab.0.center/63.28.1857.1018@63.28.1857.1018" timestamp="1581982828656" />
+    <state width="785" height="250" key="GridCell.Tab.0.left" timestamp="1582748225106">
+      <screen x="0" y="28" width="1440" height="748" />
+    </state>
+    <state width="785" height="250" key="GridCell.Tab.0.left/0.28.1440.748@0.28.1440.748" timestamp="1582748225106" />
+    <state width="774" height="144" key="GridCell.Tab.0.left/51.28.1389.748@51.28.1389.748" timestamp="1582142018234" />
+    <state width="1513" height="203" key="GridCell.Tab.0.left/63.28.1537.838@63.28.1537.838" timestamp="1582134958925" />
+    <state width="1376" height="250" key="GridCell.Tab.0.left/63.28.1857.1018@63.28.1857.1018" timestamp="1581982828656" />
+    <state width="785" height="250" key="GridCell.Tab.0.right" timestamp="1582748225107">
+      <screen x="0" y="28" width="1440" height="748" />
+    </state>
+    <state width="785" height="250" key="GridCell.Tab.0.right/0.28.1440.748@0.28.1440.748" timestamp="1582748225107" />
+    <state width="774" height="144" key="GridCell.Tab.0.right/51.28.1389.748@51.28.1389.748" timestamp="1582142018234" />
+    <state width="1513" height="203" key="GridCell.Tab.0.right/63.28.1537.838@63.28.1537.838" timestamp="1582134958926" />
+    <state width="1376" height="250" key="GridCell.Tab.0.right/63.28.1857.1018@63.28.1857.1018" timestamp="1581982828656" />
+    <state x="368" y="32" width="900" height="744" key="SettingsEditor" timestamp="1582136780161">
+      <screen x="51" y="28" width="1389" height="748" />
+    </state>
+    <state x="368" y="32" width="900" height="744" key="SettingsEditor/51.28.1389.748@51.28.1389.748" timestamp="1582136780161" />
+    <state x="487" y="172" width="1007" height="737" key="SettingsEditor/63.28.1857.1018@63.28.1857.1018" timestamp="1582028799992" />
+    <state x="460" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1582720700958">
+      <screen x="0" y="28" width="1440" height="748" />
+    </state>
+    <state x="460" y="275" key="com.intellij.ide.util.TipDialog/0.28.1440.748@0.28.1440.748" timestamp="1582720700958" />
+    <state x="495" y="275" key="com.intellij.ide.util.TipDialog/51.28.1389.748@51.28.1389.748" timestamp="1582289003423" />
+    <state x="657" y="364" key="com.intellij.ide.util.TipDialog/63.28.1857.1018@63.28.1857.1018" timestamp="1582127016690" />
+    <state x="499" y="28" width="683" height="748" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582749527291">
+      <screen x="0" y="28" width="1440" height="748" />
+    </state>
+    <state x="499" y="28" width="683" height="748" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1440.748@0.28.1440.748" timestamp="1582749527291" />
+    <state x="532" y="92" width="417" height="627" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/51.28.1389.748@51.28.1389.748" timestamp="1582136797626" />
+  </component>
+</project>
