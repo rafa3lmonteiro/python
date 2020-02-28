@@ -33,3 +33,4 @@ for p in principal:
     if p[1] == men:
         print(f'[{p[0]}] ', end='')
 print()
+
