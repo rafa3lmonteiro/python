@@ -6,3 +6,15 @@
 # ~~~~~~~~~
 #  Olá, Mundo!
 # ~~~~~~~~~
+
+
+def escreva(txt):
+    print('Saida:')
+    print('~' * len(txt))
+    print(txt)
+    print('~' * len(txt))
+
+
+frase = str(input('Digite o texto aqui: '))
+escreva(frase)
+
