@@ -10,7 +10,7 @@ from secret import passwd
 # Configurando o e-mail e senha
 EMAIL_ADDRESS = 'alerta-backup@gmail.com'
 EMAIL_PASSWORD = passwd
-EMAIL_LIST = 'youremail1@gmail.com.br youremail2@gmail.com.br tecnologia@gmail.com.br'
+EMAIL_LIST = 'youremail1@gmail.com.br, youremail2@gmail.com.br, tecnologia@gmail.com.br'
 
 # Criando o e-mail
 with open('/home/automation/email-python/bkponline') as fp:
