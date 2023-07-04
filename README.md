@@ -1,2 +1,2 @@
 # python
-Repo for Python codes
+Repo for Python codes and projects
