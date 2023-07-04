@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47759c7b-f160-474d-ad97-93f8a42b9b99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XxK93RGr0lIOX39mh5PXhzlq5x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aula22" />
+      <recent name="$PROJECT_DIR$/desafio112" />
+      <recent name="$PROJECT_DIR$/desafio111" />
+      <recent name="$PROJECT_DIR$/desafio110" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/desafio111" />
+      <recent name="$PROJECT_DIR$/desafio110" />
+      <recent name="$PROJECT_DIR$/desafio108" />
+      <recent name="$PROJECT_DIR$/aula22" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.aula22-desafio112">
+    <configuration name="aula22-desafio108" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafio108" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio108/aula22-desafio108.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula22-desafio109" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafio109" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio109/aula22-desafio109.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula22-desafio110" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafio110" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio110/aula22-desafio110.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula22-desafio111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafio111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio111/aula22-desafio111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula22-desafio112" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafio112" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio112/aula22-desafio112.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aula22-desafio112" />
+        <item itemvalue="Python.aula22-desafio111" />
+        <item itemvalue="Python.aula22-desafio110" />
+        <item itemvalue="Python.aula22-desafio109" />
+        <item itemvalue="Python.aula22-desafio108" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47759c7b-f160-474d-ad97-93f8a42b9b99" name="Default Changelist" comment="" />
+      <created>1581982151018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581982151018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2122" y="300" width="538" height="401" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586212048998">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2122" y="300" width="538" height="401" key="#com.intellij.fileTypes.FileTypeChooser/0.28.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586212048998" />
+    <state x="414" y="195" width="524" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588886185753">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state x="414" y="195" width="524" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.1600.838@0.28.1600.838" timestamp="1588886185753" />
+    <state x="472" y="269" width="485" height="273" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585517923406">
+      <screen x="0" y="28" width="1440" height="748" />
+    </state>
+    <state x="472" y="269" width="485" height="273" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.28.1440.748@0.28.1440.748" timestamp="1585517923406" />
+    <state width="1576" height="175" key="GridCell.Tab.0.bottom" timestamp="1588888099310">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state width="1416" height="120" key="GridCell.Tab.0.bottom/0.28.1440.748@0.28.1440.748" timestamp="1585518282196" />
+    <state width="1576" height="175" key="GridCell.Tab.0.bottom/0.28.1600.838@0.28.1600.838" timestamp="1588888099310" />
+    <state width="1333" height="224" key="GridCell.Tab.0.bottom/0.28.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588034034769" />
+    <state width="1333" height="320" key="GridCell.Tab.0.bottom/0.28.1920.1018@0.28.1920.1018" timestamp="1588885057841" />
+    <state width="774" height="144" key="GridCell.Tab.0.bottom/51.28.1389.748@51.28.1389.748" timestamp="1582142018235" />
+    <state width="1513" height="203" key="GridCell.Tab.0.bottom/63.28.1537.838@63.28.1537.838" timestamp="1582134958926" />
+    <state width="1376" height="250" key="GridCell.Tab.0.bottom/63.28.1857.1018@63.28.1857.1018" timestamp="1581982828656" />
+    <state width="1576" height="175" key="GridCell.Tab.0.center" timestamp="1588888099310">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state width="1416" height="120" key="GridCell.Tab.0.center/0.28.1440.748@0.28.1440.748" timestamp="1585518282195" />
+    <state width="1576" height="175" key="GridCell.Tab.0.center/0.28.1600.838@0.28.1600.838" timestamp="1588888099310" />
+    <state width="1333" height="224" key="GridCell.Tab.0.center/0.28.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588034034769" />
+    <state width="1333" height="320" key="GridCell.Tab.0.center/0.28.1920.1018@0.28.1920.1018" timestamp="1588885057840" />
+    <state width="774" height="144" key="GridCell.Tab.0.center/51.28.1389.748@51.28.1389.748" timestamp="1582142018234" />
+    <state width="1513" height="203" key="GridCell.Tab.0.center/63.28.1537.838@63.28.1537.838" timestamp="1582134958925" />
+    <state width="1376" height="250" key="GridCell.Tab.0.center/63.28.1857.1018@63.28.1857.1018" timestamp="1581982828656" />
+    <state width="1576" height="175" key="GridCell.Tab.0.left" timestamp="1588888099309">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state width="1416" height="120" key="GridCell.Tab.0.left/0.28.1440.748@0.28.1440.748" timestamp="1585518282194" />
+    <state width="1576" height="175" key="GridCell.Tab.0.left/0.28.1600.838@0.28.1600.838" timestamp="1588888099309" />
+    <state width="1333" height="224" key="GridCell.Tab.0.left/0.28.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588034034769" />
+    <state width="1333" height="320" key="GridCell.Tab.0.left/0.28.1920.1018@0.28.1920.1018" timestamp="1588885057839" />
+    <state width="774" height="144" key="GridCell.Tab.0.left/51.28.1389.748@51.28.1389.748" timestamp="1582142018234" />
+    <state width="1513" height="203" key="GridCell.Tab.0.left/63.28.1537.838@63.28.1537.838" timestamp="1582134958925" />
+    <state width="1376" height="250" key="GridCell.Tab.0.left/63.28.1857.1018@63.28.1857.1018" timestamp="1581982828656" />
+    <state width="1576" height="175" key="GridCell.Tab.0.right" timestamp="1588888099310">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state width="1416" height="120" key="GridCell.Tab.0.right/0.28.1440.748@0.28.1440.748" timestamp="1585518282195" />
+    <state width="1576" height="175" key="GridCell.Tab.0.right/0.28.1600.838@0.28.1600.838" timestamp="1588888099310" />
+    <state width="1333" height="224" key="GridCell.Tab.0.right/0.28.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588034034769" />
+    <state width="1333" height="320" key="GridCell.Tab.0.right/0.28.1920.1018@0.28.1920.1018" timestamp="1588885057840" />
+    <state width="774" height="144" key="GridCell.Tab.0.right/51.28.1389.748@51.28.1389.748" timestamp="1582142018234" />
+    <state width="1513" height="203" key="GridCell.Tab.0.right/63.28.1537.838@63.28.1537.838" timestamp="1582134958926" />
+    <state width="1376" height="250" key="GridCell.Tab.0.right/63.28.1857.1018@63.28.1857.1018" timestamp="1581982828656" />
+    <state width="1333" height="320" key="GridCell.Tab.1.bottom" timestamp="1588888099307">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state width="1333" height="320" key="GridCell.Tab.1.bottom/0.28.1600.838@0.28.1600.838" timestamp="1588888099307" />
+    <state width="1333" height="320" key="GridCell.Tab.1.bottom/0.28.1920.1018@0.28.1920.1018" timestamp="1588885057843" />
+    <state width="1333" height="320" key="GridCell.Tab.1.center" timestamp="1588888099307">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state width="1333" height="320" key="GridCell.Tab.1.center/0.28.1600.838@0.28.1600.838" timestamp="1588888099307" />
+    <state width="1333" height="320" key="GridCell.Tab.1.center/0.28.1920.1018@0.28.1920.1018" timestamp="1588885057841" />
+    <state width="1333" height="320" key="GridCell.Tab.1.left" timestamp="1588888099307">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state width="1333" height="320" key="GridCell.Tab.1.left/0.28.1600.838@0.28.1600.838" timestamp="1588888099307" />
+    <state width="1333" height="320" key="GridCell.Tab.1.left/0.28.1920.1018@0.28.1920.1018" timestamp="1588885057841" />
+    <state width="1333" height="320" key="GridCell.Tab.1.right" timestamp="1588888099307">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state width="1333" height="320" key="GridCell.Tab.1.right/0.28.1600.838@0.28.1600.838" timestamp="1588888099307" />
+    <state width="1333" height="320" key="GridCell.Tab.1.right/0.28.1920.1018@0.28.1920.1018" timestamp="1588885057842" />
+    <state x="368" y="32" width="900" height="744" key="SettingsEditor" timestamp="1582136780161">
+      <screen x="51" y="28" width="1389" height="748" />
+    </state>
+    <state x="368" y="32" width="900" height="744" key="SettingsEditor/51.28.1389.748@51.28.1389.748" timestamp="1582136780161" />
+    <state x="487" y="172" width="1007" height="737" key="SettingsEditor/63.28.1857.1018@63.28.1857.1018" timestamp="1582028799992" />
+    <state x="613" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1588884605170">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="460" y="275" key="com.intellij.ide.util.TipDialog/0.28.1440.748@0.28.1440.748" timestamp="1585514180451" />
+    <state x="613" y="364" key="com.intellij.ide.util.TipDialog/0.28.1920.1018/1920.0.1920.1080@0.28.1920.1018" timestamp="1585319268746" />
+    <state x="2533" y="356" key="com.intellij.ide.util.TipDialog/0.28.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588014676720" />
+    <state x="613" y="364" key="com.intellij.ide.util.TipDialog/0.28.1920.1018@0.28.1920.1018" timestamp="1588884605170" />
+    <state x="495" y="275" key="com.intellij.ide.util.TipDialog/51.28.1389.748@51.28.1389.748" timestamp="1582289003423" />
+    <state x="657" y="364" key="com.intellij.ide.util.TipDialog/63.28.1857.1018@63.28.1857.1018" timestamp="1582127016690" />
+    <state x="499" y="28" width="683" height="748" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582749527291">
+      <screen x="0" y="28" width="1440" height="748" />
+    </state>
+    <state x="499" y="28" width="683" height="748" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1440.748@0.28.1440.748" timestamp="1582749527291" />
+    <state x="532" y="92" width="417" height="627" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/51.28.1389.748@51.28.1389.748" timestamp="1582136797626" />
+    <state x="2049" y="71" width="694" height="852" key="find.popup" timestamp="1586212052492">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2049" y="71" width="694" height="852" key="find.popup/0.28.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586212052492" />
+  </component>
+</project>
