@@ -9,12 +9,12 @@ components_dict = {}
 current_versions = {}
 new_versions = {}
 
-# Função para buscar os componentes com a Label boilerplate=component no cluster AKS
+# Função para buscar os componentes com a Label projeto=component no cluster AKS
 def get_kubectl_info():
 
-    command = "kubectl get all -l boilerplate=component -A --no-headers | grep pod | awk '{print $1\":\"$2}' | awk -F:pod/ '{print $2\":\"$1}'"
+    command = "kubectl get all -l projeto=component -A --no-headers | grep pod | awk '{print $1\":\"$2}' | awk -F:pod/ '{print $2\":\"$1}'"
     result = subprocess.run(command, shell=True, capture_output=True, text=True)
-    print("\n- Componentes Boilerplate \n\nNamespace x Pod\n")
+    print("\n- Componentes Projeto \n\nNamespace x Pod\n")
 
     if result.returncode != 0:
         print(f"Erro ao executar o comando: {result.stderr}")
@@ -37,7 +37,7 @@ def find_pod(name):
             return pod, namespace
     return None, None
 
-# Função para pesquisas de Current Versions dos componenetes Boilerplate
+# Função para pesquisas de Current Versions dos componenetes Projeto
 def get_current_component(filtro):
     component_key, component_value = find_pod(name)
     if component_key is not None:
